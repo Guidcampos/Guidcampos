@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&color=FFE300&repeat=false&width=630&lines=Ol%C3%A1+dev%2C+seja+bem-vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&color=FFE300&width=630&lines=Ol%C3%A1+dev%2C+seja+bem-vindo!)](https://git.io/typing-svg)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
 ### Me chamo Guilherme e esté é o meu perfil !
