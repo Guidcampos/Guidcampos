@@ -35,6 +35,5 @@
 
 ##  
   
-![snake gif](https://github.com/Guidcampos/Guidcampos/blob/output/github-contribution-grid-snake.svg)
 
 ##  
