@@ -5,7 +5,9 @@
 
 
 - 💼 Em processo de transição de carreira.
-- 💻 Cursando desenvolvimento de sistemas.
+- 🎓 Cursando **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
+- 👨‍💻 Formação Técnica em **Desenvolvimento de Sistemas**  
+- 🔥 Apaixonado por tecnologia, inovação e resolução de problemas  
 
 
 ##
